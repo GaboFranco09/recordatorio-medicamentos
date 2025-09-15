@@ -1,0 +1,22 @@
+{
+  "medicamentos": [
+    {
+      "nombre": "Vitamina C",
+      "nombre_adulto": "Doña Ana",
+      "dosis": "1 cápsula",
+      "intervalo_minutos": 1
+    },
+    {
+      "nombre": "Ibuprofeno",
+      "nombre_adulto": "Don Juan",
+      "dosis": "200 mg",
+      "intervalo_minutos": 2
+    },
+    {
+      "nombre": "Paracetamol",
+      "nombre_adulto": "Doña María",
+      "dosis": "1 tableta",
+      "hora": "17:46"
+    }
+  ]
+}
